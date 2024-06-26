@@ -15,6 +15,10 @@ Welcome to the Landing Page Project repository! This project showcases a fully r
 - **CSS3:** For styling, including Flexbox and Grid for layout, and media queries for responsiveness.
 - **JavaScript:** For interactivity and dynamic content.
 
+## Live Demo
+
+You can view a live demo of the landing page [here]([https://your-username.github.io/landing-page-project](https://company-lcytpc733-mohammed-faisals-projects.vercel.app/)).
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
