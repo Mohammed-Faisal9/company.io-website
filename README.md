@@ -17,7 +17,7 @@ Welcome to the Landing Page Project repository! This project showcases a fully r
 
 ## Live Demo
 
-You can view a live demo of the landing page [here]([https://your-username.github.io/landing-page-project](https://company-lcytpc733-mohammed-faisals-projects.vercel.app/)).
+You can view a live demo of the landing page [here](https://company-lcytpc733-mohammed-faisals-projects.vercel.app/).
 
 ## Contributing
 
